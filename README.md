@@ -1,11 +1,11 @@
 # Phantom Engine
-**Note: This game engine has been abandoned and its development has moved to [Cryonic Engine]([https://www.google.com](https://github.com/ElectroGamesDev/Cryonic-Engine) "Cryonic Engine") with many improvements such as 3D capabilities and build support.**
+**Important Note: This game engine has been abandoned and its development has moved to [Cryonic Engine]([https://www.google.com](https://github.com/ElectroGamesDev/Cryonic-Engine) "Cryonic Engine") with many improvements such as 3D capabilities and build support.**
 
 Phantom Engine is a 2D game engine designed to facilitate game development with a focus on simplicity and flexibility.
 
 ## Screenshots
 
-![alt text](Images/EditorScreenshot.png "")
+![alt text](EditorScreenshot.jpg "")
 
 ## Features
 
