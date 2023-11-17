@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UcRh78iyj7TizsDFS2E2VTQLLzjpFhEOx9ZAgyAldHG+r4o/YRuiGdPaNMA8mK9kmpkXD8BbqGyinQSEGaIRTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tristyn\\Documents\\Visual Studio Projects\\PhantomEngine2D\\MonoBehaviours\\MonoBehaviours.vcxproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tristyn\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.29\\microsoft.windows.sdk.net.ref.10.0.19041.29.nupkg.sha512"
+  ],
+  "logs": []
+}

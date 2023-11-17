@@ -1,0 +1,4 @@
+﻿  Behaviour.cpp
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\ConsoleLogger.h(16,6): warning C4091: 'static value ': ignored on left of 'ConsoleLogger::ConsoleLogType' when no variable is declared
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\ConsoleLogger.h(20,6): warning C4091: 'static ': ignored on left of 'ConsoleLogger::ConsoleLog' when no variable is declared
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\GameObject.h(5,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory

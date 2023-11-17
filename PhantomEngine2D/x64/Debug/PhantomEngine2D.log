@@ -1,0 +1,48 @@
+﻿  EditorWindow.cpp
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\ConsoleLogger.h(16,6): warning C4091: 'static ': ignored on left of 'ConsoleLogger::ConsoleLogType' when no variable is declared
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\ConsoleLogger.h(20,6): warning C4091: 'static ': ignored on left of 'ConsoleLogger::ConsoleLog' when no variable is declared
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(26,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(399,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(400,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(401,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(402,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(409,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(409,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(430,71): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(430,55): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(442,66): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(442,50): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(446,83): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(446,67): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(834,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(834,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(688,26): warning C4101: 'texture': unreferenced local variable
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1109,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1109,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(971,22): warning C4101: 'texture': unreferenced local variable
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1219,60): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1459,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1615,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1615,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1616,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1616,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1662,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1672,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1693,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1762,60): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1762,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1762,84): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1762,84): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,54): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,77): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,77): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,97): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,97): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,117): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\EditorWindow.cpp(1763,117): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PhantomEngine2D.cpp
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\ConsoleLogger.h(16,6): warning C4091: 'static ': ignored on left of 'ConsoleLogger::ConsoleLogType' when no variable is declared
+C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\PhantomEngine2D\ConsoleLogger.h(20,6): warning C4091: 'static ': ignored on left of 'ConsoleLogger::ConsoleLog' when no variable is declared
+  Generating Code...
+  PhantomEngine2D.vcxproj -> C:\Users\Tristyn\Documents\Visual Studio Projects\PhantomEngine2D\x64\Debug\PhantomEngine2D.exe
