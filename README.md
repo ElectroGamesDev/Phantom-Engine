@@ -18,6 +18,10 @@ Phantom Engine is a 2D game engine designed to facilitate game development with 
 
 This project is no longer actively maintained. However, feel free to fork the repository and continue development on your own.
 
+<a href="https://github.com/ElectroGamesDev/Phantom-Engine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ElectroGamesDev/Phantom-Engine" />
+</a>
+
 ## License
 
 Phantom Engine is licensed under the [MIT License](LICENSE).
