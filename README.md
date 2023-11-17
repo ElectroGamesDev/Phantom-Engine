@@ -20,4 +20,4 @@ This project is no longer actively maintained. However, feel free to fork the re
 
 ## License
 
-Phantom Engine is licensed under the [MIT License]([https://github.com/ElectroGamesDev/Phantom-Engine/blob/main/LICENSE])).
+Phantom Engine is licensed under the [MIT License](LICENSE).
